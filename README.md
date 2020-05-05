@@ -6,8 +6,8 @@ ouputs the elements full name and or chemical formula
 
 example:
 
-Enter {Metal Nonmetal}: Li O
+Enter Metal Nonmetal: Li O
 
-Enter {Metal Nonmetal}: lithium oxide
+Enter Metal Nonmetal: lithium oxide
 
 
