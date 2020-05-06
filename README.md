@@ -11,3 +11,4 @@ Enter Metal Nonmetal: Li O
 Enter Metal Nonmetal: lithium oxide
 
 
+No support for polyatomic ions or transitional metals
