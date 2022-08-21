@@ -2,7 +2,7 @@
 Enter a metal and nonmetal separated by a space,
 input can be either element symbols or full names.
 
-ouputs the elements full name and or chemical formula
+Outputs the two elements' full name and the corresponding formula of the ionic compound.
 
 ## Demo
 
