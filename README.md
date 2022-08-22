@@ -1,4 +1,7 @@
 # Element Parser
+
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=blue&color=white) ![](https://img.shields.io/tokei/lines/github/AJM432/element-parser) ![](https://img.shields.io/github/repo-size/AJM432/element-parser?style=flat)
+
 Enter a metal and nonmetal separated by a space,
 input can be either element symbols or full names.
 
